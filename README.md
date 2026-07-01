@@ -4,7 +4,7 @@ Detection and Precision Pesticide Recommendation in Indian Agriculture
 "</b>
 
 Authors:
-</b>Sandhya B Shettanavar
+<b>Sandhya B Shettanavar
 Riki Hosen
 Sabeel Mohammed
 Asif M
